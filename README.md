@@ -45,17 +45,13 @@ Soy estudiante de Ingeniería en Software con interés en el desarrollo web y en
 
 ## 📊 Estadísticas de GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight)
-
----
 
 ## 📫 Conéctate conmigo
 
-- 💼 LinkedIn: (Agrega tu perfil aquí)  
-- 📧 Email: (Agrega tu correo aquí)  
-
+- 💼 LinkedIn: Anthony Semblantes
+- 📧 Email: anthonysemblantes@gmail.com
+- 
 ---
 
 ⭐ *En constante aprendizaje y con ganas de seguir creciendo en el mundo del software.*
