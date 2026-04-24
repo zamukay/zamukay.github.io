@@ -1,4 +1,3 @@
-# zamukay.github.io
 # 👋 Hola, soy Anthony Semblantes
 
 🎓 Estudiante de Ingeniería en Software en la Universidad Técnica de Ambato 💻  
